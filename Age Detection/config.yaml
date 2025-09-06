@@ -1,0 +1,5 @@
+
+builder: open_images_challenge2019/200k
+split: validation[:50]
+image_size: 640
+hub_model: https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2
